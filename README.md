@@ -4,7 +4,7 @@ This project aims to predict the ratings given by learners to Udemy courses. The
 
 ## Dataset
 
-The dataset used for this project is sourced from [Udemy](https://www.udemy.com/) and is available in the file `3.1-data-sheet-udemy-courses.csv`. It contains the following columns:
+The dataset used for this project is sourced from [Udemy](https://www.udemy.com/) and is available in`(https://www.kaggle.com/datasets/andrewmvd/udemy-courses)`. It contains the following columns:
 
 - course_title: The title of the Udemy course
 - price: The price of the course
@@ -22,15 +22,6 @@ In this project, a regression model is developed to predict the ratings given by
 The XGBoost regressor is trained using the dataset and evaluated using mean squared error (MSE), mean absolute error (MAE), and R-squared score. Similarly, the Random Forest regressor is trained and evaluated using the same metrics.
 
 The evaluation metrics obtained from the models provide insights into the accuracy and performance of the models in predicting the course ratings.
-
-## Repository Structure
-
-The repository is organized as follows:
-
-- `data/`: Contains the dataset used for the project.
-- `notebooks/`: Contains Jupyter notebooks with the data exploration, preprocessing, and model development.
-- `models/`: Contains the trained regression models.
-- `README.md`: This file, providing an overview of the project.
 
 ## Getting Started
 
