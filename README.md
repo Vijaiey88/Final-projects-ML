@@ -8,6 +8,7 @@ The dataset used for this project can be found at [Kaggle - Dogs vs Cats](https:
 
 ## Requirements (libraries)
 
+- os
 - OpenCV
 - NumPy
 - scikit-learn
