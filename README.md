@@ -14,17 +14,6 @@ The dataset used for this project can be found at [Kaggle - Dogs vs Cats](https:
 - scikit-learn
 
 
-## Usage
-
-1. Clone the repository:
-
-2. Download the dataset and extract it into the repository's directory.
-
-3. Open a terminal or command prompt and navigate to the repository's directory.
-
-4. Run the `image_classification.py` script:
-
-This will perform feature extraction, train the classifier, and display the classification report.
 
 ## Contributing
 
