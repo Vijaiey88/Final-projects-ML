@@ -16,9 +16,7 @@ The **Instagram Influencers** project revolves around analyzing and identifying 
 
 ## Image Classification
 
-The **Image Classification** project deals with classifying images into different categories using deep learning techniques. It involves training a neural network model on labeled images and then using the model to classify unseen images.
-
-Each sub-branch contains its own set of code, data, and documentation. Please refer to the respective sub-branch directories for detailed instructions on running and using the projects.
+The **Image Classification** project deals with classifying images into different categories.
 
 ## Requirements
 
